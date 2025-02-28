@@ -148,6 +148,3 @@ The project includes multiple visualization types:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-For questions or feedback, please open an issue or contact me at [your.email@example.com](mailto:your.email@example.com).
