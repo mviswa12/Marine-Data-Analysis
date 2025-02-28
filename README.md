@@ -41,7 +41,7 @@ pip install scikit-learn
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/marine-fish-analysis.git
+   git clone https://github.com/mviswa12/marine-fish-analysis.git
    cd marine-fish-analysis
    ```
 
